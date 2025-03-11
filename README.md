@@ -1,0 +1,1 @@
+Developed a machine learning model to predict house prices using Linear Regression. Processed and analyzed housing data, handled missing values, and engineered features for better accuracy. Evaluated model performance using Mean Squared Error (MSE) and R² Score, ensuring reliable price estimations.
